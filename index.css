@@ -1,0 +1,124 @@
+#first-page-hadding {
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    padding-left: 30%;
+    padding-right: 30%;
+    padding-top: 5%;
+    color: antiquewhite;
+    font-weight: 700px;
+    font-size: 50px;
+}
+
+#first-page-pera {
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    padding-left: 30%;
+    padding-right: 30%;
+    color: antiquewhite;
+    font-weight: 200;
+
+}
+
+#button {
+    padding: 10px 30px;
+    background-color: rgb(248, 118, 86);
+    color: rgb(234, 230, 230);
+    font-size: 15px;
+    border: 0px;
+    border-radius: 5px;
+    margin-left: 45%;
+    margin-top: 20px;
+}
+
+.first-page {
+    background-image: url(images/donation6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 500px;
+    opacity: 0.9;
+    background-blend-mode: darken;
+    overflow: hidden;
+    background-size: cover;
+    box-shadow: inset 0 0 0 2000px rgba(11, 11, 11, 0.577);
+
+
+
+}
+
+section {
+    height: 600px;
+    width: 100vw;
+
+
+}
+
+body {
+    margin: 0px;
+}
+
+#second-page-hadding {
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    padding-left: 30%;
+    padding-right: 30%;
+    padding-top: 5%;
+    color: black;
+    font-weight: 700px;
+    font-size: 50px;
+}
+
+#second-page-pera {
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    padding-left: 30%;
+    padding-right: 30%;
+    color: black;
+    font-weight: 200;
+}
+
+#second-page-div {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.sub-div {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border: 3px;
+    border-radius: 7px;
+    text-align: center;
+    margin: 10px 20px;
+    background-color: rgba(0, 0, 0, 0.055);
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+#color-div {
+    background-color: rgba(255, 127, 80, 0.238);
+    border: 3px solid rgb(255, 81, 0);
+    color: rgb(255, 81, 0);
+
+
+
+}
+
+#left-div {
+    margin-left: 450px;
+}
+
+#under-line {
+
+    color: darkgray;
+    text-align: center;
+    text-decoration-line: underline;
+    text-underline-offset: 1rem;
+}
